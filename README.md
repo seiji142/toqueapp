@@ -2,7 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
-## Development server
+Conexion con Api Rest en Symfony 6.
+
+Consumiendo el Servicio de Paises desde la Api Rest:
+
+![urlServiceApiSymfony](https://user-images.githubusercontent.com/57019722/183440339-4959011b-62f0-4242-8b65-439641006f40.jpg)
+
+Consumiendo el Servicio de Conexiones desde la Api Rest:
+
+## Development server![urlServiceConexionApi](https://user-images.githubusercontent.com/57019722/183440357-bff27bee-b631-4ba5-996a-b41e88ccf86e.png)
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
