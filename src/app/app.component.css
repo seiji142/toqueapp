@@ -1,0 +1,42 @@
+/*.vertical-stepper {
+    max-width: 400px;
+    float: left;
+}*/
+
+.mat-success {
+    background-color: green;
+    color: #fff;
+}
+
+.mat-destino {
+    background-color: #ff5c2e;
+    color: #fff;
+}
+
+.example-card {
+    float: right;
+    max-width: 400px;
+}
+
+.example-header-image {
+    background-image: url('../assets/imagenes/imagen4.jpg');
+    background-size: cover;
+}
+
+.example2-card {
+    float: left;
+    max-width: 400px;
+}
+
+.example2-header-image {
+    background-image: url('../assets/imagenes/imagen4.jpg');
+    background-size: cover;
+}
+
+.contenedor {
+    padding: 3em;
+}
+
+.mat-step-header .mat-step-icon-selected {
+    background-color: #3fb589;
+}
